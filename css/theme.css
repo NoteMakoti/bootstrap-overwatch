@@ -1,19 +1,19 @@
 @font-face {
     font-family: Big Noodle Too;
-    src: url(font/BigNoodleToo.ttf);
+    src: url(/font/BigNoodleToo.ttf);
 }
 @font-face {
     font-family: Big Noodle Too;
-    src: url(font/BigNoodleTooOblique.ttf);
+    src: url(/font/BigNoodleTooOblique.ttf);
     font-style: oblique;
 }
 @font-face {
     font-family: Koverwatch;
-    src: url(font/koverwatch.ttf);
+    src: url(/font/koverwatch.ttf);
 }
 @font-face {
     font-family: Futura;
-    src: url(font/Futura.ttf);
+    src: url(/font/Futura.ttf);
 }
 a:hover{
     text-decoration: none;
