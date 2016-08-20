@@ -1,0 +1,55 @@
+@font-face {
+    font-family: Big Noodle Too;
+    src: url(font/BigNoodleToo.ttf);
+}
+@font-face {
+    font-family: Big Noodle Too;
+    src: url(font/BigNoodleTooOblique.ttf);
+    font-style: oblique;
+}
+@font-face {
+    font-family: Koverwatch;
+    src: url(font/koverwatch.ttf);
+}
+@font-face {
+    font-family: Futura;
+    src: url(font/Futura.ttf);
+}
+a:hover{
+    text-decoration: none;
+}
+.alert{
+    border-radius: 3px;
+}
+body{
+    background-color: ;
+}
+.btn{
+    border-radius: 0;
+}
+button{
+    font-family: Futura,century gothic,arial,sans-serif;
+    opacity: 0.9;
+    text-transform: uppercase;
+}
+h1{
+    font-style: oblique;
+}
+h1, h2, h3, h4, h5{
+    font-family: Big Noodle Too,impact,sans-serif;
+    text-transform: uppercase;
+}
+h1, h2, h3{
+    font-style: oblique;
+}
+li{
+    font-family: Futura,century gothic,arial,sans-serif;
+    text-transform: uppercase;
+}
+progress{
+    opacity: ;
+}
+thead{
+    font-family: Futura,century gothic,arial,sans-serif;
+    text-transform: uppercase;
+}
